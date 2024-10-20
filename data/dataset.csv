@@ -1,0 +1,251 @@
+country,capital,continents,area,population,idd
+South Georgia,King Edward Point,Antarctica,3903.0,30,+5
+Grenada,St. George's,North America,344.0,112519,+1
+Switzerland,Bern,Europe,41284.0,8654622,+4
+Sierra Leone,Freetown,Africa,71740.0,7976985,+2
+Hungary,Budapest,Europe,93028.0,9749763,+3
+Taiwan,Taipei,Asia,36193.0,23503349,+8
+Wallis and Futuna,Mata-Utu,Oceania,142.0,11750,+6
+Barbados,Bridgetown,North America,430.0,287371,+1
+Pitcairn Islands,Adamstown,Oceania,47.0,56,+6
+Ivory Coast,Yamoussoukro,Africa,322463.0,26378275,+2
+Tunisia,Tunis,Africa,163610.0,11818618,+2
+Italy,Rome,Europe,301336.0,59554023,+3
+Benin,Porto-Novo,Africa,112622.0,12123198,+2
+Indonesia,Jakarta,Asia,1904569.0,273523621,+6
+Cape Verde,Praia,Africa,4033.0,555988,+2
+Saint Kitts and Nevis,Basseterre,North America,261.0,53192,+1
+Laos,Vientiane,Asia,236800.0,7275556,+8
+Caribbean Netherlands,Kralendijk,North America,328.0,25987,+5
+Uganda,Kampala,Africa,241550.0,45741000,+2
+Andorra,Andorra la Vella,Europe,468.0,77265,+3
+Burundi,Gitega,Africa,27834.0,11890781,+2
+South Africa,Pretoria,Africa,1221037.0,59308690,+2
+France,Paris,Europe,551695.0,67391582,+3
+Libya,Tripoli,Africa,1759540.0,6871287,+2
+Mexico,Mexico City,North America,1964375.0,128932753,+5
+Gabon,Libreville,Africa,267668.0,2225728,+2
+Northern Mariana Islands,Saipan,Oceania,464.0,57557,+1
+North Macedonia,Skopje,Europe,25713.0,2077132,+3
+China,Beijing,Asia,9706961.0,1402112000,+8
+Yemen,Sana'a,Asia,527968.0,29825968,+9
+Saint Barthélemy,Gustavia,North America,21.0,4255,+5
+Guernsey,St. Peter Port,Europe,78.0,62999,+4
+Solomon Islands,Honiara,Oceania,28896.0,686878,+6
+Svalbard and Jan Mayen,Longyearbyen,Europe,61399.0,2562,+4
+Faroe Islands,Tórshavn,Europe,1393.0,48865,+2
+Uzbekistan,Tashkent,Asia,447400.0,34232050,+9
+Egypt,Cairo,Africa,1002450.0,102334403,+2
+Senegal,Dakar,Africa,196722.0,16743930,+2
+Sri Lanka,Sri Jayawardenepura Kotte,Asia,65610.0,21919000,+9
+Palestine,Ramallah,Asia,6220.0,4803269,+9
+Bangladesh,Dhaka,Asia,147570.0,164689383,+8
+Peru,Lima,South America,1285216.0,32971846,+5
+Singapore,Singapore,Asia,710.0,5685807,+6
+Turkey,Ankara,Europe,783562.0,84339067,+9
+Afghanistan,Kabul,Asia,652230.0,40218234,+9
+Aruba,Oranjestad,North America,180.0,106766,+2
+Cook Islands,Avarua,Oceania,236.0,18100,+6
+United Kingdom,London,Europe,242900.0,67215293,+4
+Zambia,Lusaka,Africa,752612.0,18383956,+2
+Finland,Helsinki,Europe,338424.0,5530719,+3
+Niger,Niamey,Africa,1267000.0,24206636,+2
+Christmas Island,Flying Fish Cove,Asia,135.0,2072,+6
+Tokelau,Fakaofo,Oceania,12.0,1411,+6
+Guinea-Bissau,Bissau,Africa,36125.0,1967998,+2
+Azerbaijan,Baku,Europe,86600.0,10110116,+9
+Réunion,Saint-Denis,Africa,2511.0,840974,+2
+Djibouti,Djibouti,Africa,23200.0,988002,+2
+North Korea,Pyongyang,Asia,120538.0,25778815,+8
+Mauritius,Port Louis,Africa,2040.0,1265740,+2
+Montserrat,Plymouth,North America,102.0,4922,+1
+United States Virgin Islands,Charlotte Amalie,North America,347.0,106290,+1
+Colombia,Bogotá,South America,1141748.0,50882884,+5
+Greece,Athens,Europe,131990.0,10715549,+3
+Croatia,Zagreb,Europe,56594.0,4047200,+3
+Morocco,Rabat,Africa,446550.0,36910558,+2
+Algeria,Algiers,Africa,2381741.0,44700000,+2
+Antarctica,N/A,Antarctica,14000000.0,1000,
+Netherlands,Amsterdam,Europe,41850.0,16655799,+3
+Sudan,Khartoum,Africa,1886068.0,43849269,+2
+Fiji,Suva,Oceania,18272.0,896444,+6
+Liechtenstein,Vaduz,Europe,160.0,38137,+4
+Nepal,Kathmandu,Asia,147181.0,29136808,+9
+Puerto Rico,San Juan,North America,8870.0,3194034,+1
+Georgia,Tbilisi,Asia,69700.0,3714000,+9
+Pakistan,Islamabad,Asia,881912.0,220892331,+9
+Monaco,Monaco,Europe,2.02,39244,+3
+Botswana,Gaborone,Africa,582000.0,2351625,+2
+Lebanon,Beirut,Asia,10452.0,6825442,+9
+Papua New Guinea,Port Moresby,Oceania,462840.0,8947027,+6
+Mayotte,Mamoudzou,Africa,374.0,226915,+2
+Dominican Republic,Santo Domingo,North America,48671.0,10847904,+1
+Norfolk Island,Kingston,Oceania,36.0,2302,+6
+Bouvet Island,N/A,Antarctica,49.0,0,+4
+Qatar,Doha,Asia,11586.0,2881060,+9
+Madagascar,Antananarivo,Africa,587041.0,27691019,+2
+India,New Delhi,Asia,3287590.0,1380004385,+9
+Syria,Damascus,Asia,185180.0,17500657,+9
+Montenegro,Podgorica,Europe,13812.0,621718,+3
+Eswatini,Mbabane,Africa,17364.0,1160164,+2
+Paraguay,Asunción,South America,406752.0,7132530,+5
+El Salvador,San Salvador,North America,21041.0,6486201,+5
+Ukraine,Kyiv,Europe,603500.0,44134693,+3
+Isle of Man,Douglas,Europe,572.0,85032,+4
+Namibia,Windhoek,Africa,825615.0,2540916,+2
+United Arab Emirates,Abu Dhabi,Asia,83600.0,9890400,+9
+Bulgaria,Sofia,Europe,110879.0,6927288,+3
+Greenland,Nuuk,North America,2166086.0,56367,+2
+Germany,Berlin,Europe,357114.0,83240525,+4
+Cambodia,Phnom Penh,Asia,181035.0,16718971,+8
+Iraq,Baghdad,Asia,438317.0,40222503,+9
+French Southern and Antarctic Lands,Port-aux-Français,Antarctica,7747.0,400,+2
+Sweden,Stockholm,Europe,450295.0,10353442,+4
+Cuba,Havana,North America,109884.0,11326616,+5
+Kyrgyzstan,Bishkek,Asia,199951.0,6591600,+9
+Russia,Moscow,Europe,17098242.0,144104080,+7
+Malaysia,Kuala Lumpur,Asia,330803.0,32365998,+6
+São Tomé and Príncipe,São Tomé,Africa,964.0,219161,+2
+Cyprus,Nicosia,Europe,9251.0,1207361,+3
+Canada,Ottawa,North America,9984670.0,38005238,+1
+Malawi,Lilongwe,Africa,118484.0,19129955,+2
+Saudi Arabia,Riyadh,Asia,2149690.0,34813867,+9
+Bosnia and Herzegovina,Sarajevo,Europe,51209.0,3280815,+3
+Ethiopia,Addis Ababa,Africa,1104300.0,114963583,+2
+Spain,Madrid,Europe,505992.0,47351567,+3
+Slovenia,Ljubljana,Europe,20273.0,2100126,+3
+Oman,Muscat,Asia,309500.0,5106622,+9
+Saint Pierre and Miquelon,Saint-Pierre,North America,242.0,6069,+5
+Macau,N/A,Asia,30.0,649342,+8
+San Marino,City of San Marino,Europe,61.0,33938,+3
+Lesotho,Maseru,Africa,30355.0,2142252,+2
+Marshall Islands,Majuro,Oceania,181.0,59194,+6
+Sint Maarten,Philipsburg,North America,34.0,40812,+1
+Iceland,Reykjavik,Europe,103000.0,366425,+3
+Luxembourg,Luxembourg,Europe,2586.0,632275,+3
+Argentina,Buenos Aires,South America,2780400.0,45376763,+5
+Turks and Caicos Islands,Cockburn Town,North America,948.0,38718,+1
+Nauru,Yaren,Oceania,21.0,10834,+6
+Cocos (Keeling) Islands,West Island,Asia,14.0,544,+6
+Western Sahara,El Aaiún,Africa,266000.0,510713,+2
+Dominica,Roseau,North America,751.0,71991,+1
+Costa Rica,San José,North America,51100.0,5094114,+5
+Australia,Canberra,Oceania,7692024.0,25687041,+6
+Thailand,Bangkok,Asia,513120.0,69799978,+6
+Haiti,Port-au-Prince,North America,27750.0,11402533,+5
+Tuvalu,Funafuti,Oceania,26.0,11792,+6
+Honduras,Tegucigalpa,North America,112492.0,9904608,+5
+Equatorial Guinea,Malabo,Africa,28051.0,1402985,+2
+Saint Lucia,Castries,North America,616.0,183629,+1
+French Polynesia,Papeetē,Oceania,4167.0,280904,+6
+Belarus,Minsk,Europe,207600.0,9398861,+3
+Latvia,Riga,Europe,64559.0,1901548,+3
+Palau,Ngerulmud,Oceania,459.0,18092,+6
+Guadeloupe,Basse-Terre,North America,1628.0,400132,+5
+Philippines,Manila,Asia,342353.0,109581085,+6
+Gibraltar,Gibraltar,Europe,6.0,33691,+3
+Denmark,Copenhagen,Europe,43094.0,5831404,+4
+Cameroon,Yaoundé,Africa,475442.0,26545864,+2
+Guinea,Conakry,Africa,245857.0,13132792,+2
+Bahrain,Manama,Asia,765.0,1701583,+9
+Suriname,Paramaribo,South America,163820.0,586634,+5
+DR Congo,Kinshasa,Africa,2344858.0,108407721,+2
+Somalia,Mogadishu,Africa,637657.0,15893219,+2
+Czechia,Prague,Europe,78865.0,10698896,+4
+New Caledonia,Nouméa,Oceania,18575.0,271960,+6
+Vanuatu,Port Vila,Oceania,12189.0,307150,+6
+"Saint Helena, Ascension and Tristan da Cunha",Jamestown,Africa,394.0,53192,+2
+Togo,Lomé,Africa,56785.0,8278737,+2
+British Virgin Islands,Road Town,North America,151.0,30237,+1
+Kenya,Nairobi,Africa,580367.0,53771300,+2
+Niue,Alofi,Oceania,260.0,1470,+6
+Heard Island and McDonald Islands,N/A,Antarctica,412.0,0,
+Rwanda,Kigali,Africa,26338.0,12952209,+2
+Estonia,Tallinn,Europe,45227.0,1331057,+3
+Romania,Bucharest,Europe,238391.0,19286123,+4
+Trinidad and Tobago,Port of Spain,North America,5130.0,1399491,+1
+Guyana,Georgetown,South America,214969.0,786559,+5
+Timor-Leste,Dili,Oceania,14874.0,1318442,+6
+Vietnam,Hanoi,Asia,331212.0,97338583,+8
+Uruguay,Montevideo,South America,181034.0,3473727,+5
+Vatican City,Vatican City,Europe,0.44,451,+3
+Hong Kong,City of Victoria,Asia,1104.0,7500700,+8
+Austria,Vienna,Europe,83871.0,8917205,+4
+Antigua and Barbuda,Saint John's,North America,442.0,97928,+1
+Turkmenistan,Ashgabat,Asia,488100.0,6031187,+9
+Mozambique,Maputo,Africa,801590.0,31255435,+2
+Panama,Panama City,North America,75417.0,4314768,+5
+Micronesia,Palikir,Oceania,702.0,115021,+6
+Ireland,Dublin,Europe,70273.0,4994724,+3
+Curaçao,Willemstad,North America,444.0,155014,+5
+French Guiana,Cayenne,South America,83534.0,254541,+5
+Norway,Oslo,Europe,323802.0,5379475,+4
+Åland Islands,Mariehamn,Europe,1580.0,29458,+3
+Central African Republic,Bangui,Africa,622984.0,4829764,+2
+Burkina Faso,Ouagadougou,Africa,272967.0,20903278,+2
+Eritrea,Asmara,Africa,117600.0,5352000,+2
+Tanzania,Dodoma,Africa,945087.0,59734213,+2
+South Korea,Seoul,Asia,100210.0,51780579,+8
+Jordan,Amman,Asia,89342.0,10203140,+9
+Mauritania,Nouakchott,Africa,1030700.0,4649660,+2
+Lithuania,Vilnius,Europe,65300.0,2794700,+3
+United States Minor Outlying Islands,Washington DC,Oceania,34.2,300,+2
+Slovakia,Bratislava,Europe,49037.0,5458827,+4
+Angola,Luanda,Africa,1246700.0,32866268,+2
+Kazakhstan,Nur-Sultan,Asia,2724900.0,18754440,+7
+Moldova,Chișinău,Europe,33846.0,2617820,+3
+Mali,Bamako,Africa,1240192.0,20250834,+2
+Falkland Islands,Stanley,South America,12173.0,2563,+5
+Armenia,Yerevan,Asia,29743.0,2963234,+3
+Samoa,Apia,Oceania,2842.0,198410,+6
+Jersey,Saint Helier,Europe,116.0,100800,+4
+Japan,Tokyo,Asia,377930.0,125836021,+8
+Bolivia,Sucre,South America,1098581.0,11673029,+5
+Chile,Santiago,South America,756102.0,19116209,+5
+United States,"Washington, D.C.",North America,9372610.0,329484123,+1
+Saint Vincent and the Grenadines,Kingstown,North America,389.0,110947,+1
+Bermuda,Hamilton,North America,54.0,63903,+1
+Seychelles,Victoria,Africa,452.0,98462,+2
+British Indian Ocean Territory,Diego Garcia,Asia,60.0,3000,+2
+Guatemala,Guatemala City,North America,108889.0,16858333,+5
+Ecuador,Quito,South America,276841.0,17643060,+5
+Martinique,Fort-de-France,North America,1128.0,378243,+5
+Tajikistan,Dushanbe,Asia,143100.0,9537642,+9
+Malta,Valletta,Europe,316.0,525285,+3
+Gambia,Banjul,Africa,10689.0,2416664,+2
+Nigeria,Abuja,Africa,923768.0,206139587,+2
+Bahamas,Nassau,North America,13943.0,393248,+1
+Kosovo,Pristina,Europe,10908.0,1775378,+3
+Kuwait,Kuwait City,Asia,17818.0,4270563,+9
+Maldives,Malé,Asia,300.0,540542,+9
+South Sudan,Juba,Africa,619745.0,11193729,+2
+Iran,Tehran,Asia,1648195.0,83992953,+9
+Albania,Tirana,Europe,28748.0,2837743,+3
+Brazil,Brasília,South America,8515767.0,212559409,+5
+Serbia,Belgrade,Europe,88361.0,6908224,+3
+Belize,Belmopan,North America,22966.0,397621,+5
+Myanmar,Naypyidaw,Asia,676578.0,54409794,+9
+Bhutan,Thimphu,Asia,38394.0,771612,+9
+Venezuela,Caracas,South America,916445.0,28435943,+5
+Liberia,Monrovia,Africa,111369.0,5057677,+2
+Jamaica,Kingston,North America,10991.0,2961161,+1
+Poland,Warsaw,Europe,312679.0,37950802,+4
+Cayman Islands,George Town,North America,264.0,65720,+1
+Brunei,Bandar Seri Begawan,Asia,5765.0,437483,+6
+Comoros,Moroni,Africa,1862.0,869595,+2
+Guam,Hagåtña,Oceania,549.0,168783,+1
+Tonga,Nuku'alofa,Oceania,747.0,105697,+6
+Kiribati,South Tarawa,Oceania,811.0,119446,+6
+Ghana,Accra,Africa,238533.0,31072945,+2
+Chad,N'Djamena,Africa,1284000.0,16425859,+2
+Zimbabwe,Harare,Africa,390757.0,14862927,+2
+Saint Martin,Marigot,North America,53.0,38659,+5
+Mongolia,Ulan Bator,Asia,1564110.0,3278292,+9
+Portugal,Lisbon,Europe,92090.0,10305564,+3
+American Samoa,Pago Pago,Oceania,199.0,55197,+1
+Republic of the Congo,Brazzaville,Africa,342000.0,5657000,+2
+Belgium,Brussels,Europe,30528.0,11555997,+3
+Israel,Jerusalem,Asia,20770.0,9216900,+9
+New Zealand,Wellington,Oceania,270467.0,5084300,+6
+Nicaragua,Managua,North America,130373.0,6624554,+5
+Anguilla,The Valley,North America,91.0,13452,+1
